@@ -4,6 +4,7 @@ MIDI Library for Arduino based hardware
 Supports Multiplexers(up to 5-bit)
          Shift Registers (Serial In-Parallel Out)
          RGB addressable LED strips (like WS2812B)
+         Encoders (actually two configured at pins 18-19 and 2-3 of the Arduino MEGA)
          
 You can easily control up to 96 I/O with only a few settings:
 
